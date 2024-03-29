@@ -1,0 +1,153 @@
+{
+  "Groovy Vibes": {
+    "__resolveType": "site/sections/Theme/Theme.tsx",
+    "buttonStyle": {
+      "--border-btn": "1px",
+      "--rounded-btn": "0.2rem",
+      "--btn-focus-scale": 0.95,
+      "--animation-btn": "0.25s"
+    },
+    "otherStyles": {
+      "--rounded-box": "1rem",
+      "--rounded-badge": "1.9rem",
+      "--animation-input": "0.2s",
+      "--tab-border": "1px",
+      "--tab-radius": "0.5rem"
+    },
+    "mainColors": {
+      "base-100": "#2F361F",
+      "primary": "#E96631",
+      "secondary": "#EAF47F",
+      "tertiary": "#E2DAF2",
+      "neutral": "#FFF5EB"
+    },
+    "colorScheme": "any"
+  },
+  "Serene Coastline": {
+    "__resolveType": "site/sections/Theme/Theme.tsx",
+    "buttonStyle": {
+      "--border-btn": "1px",
+      "--rounded-btn": "0.2rem",
+      "--btn-focus-scale": 0.95,
+      "--animation-btn": "0.25s"
+    },
+    "otherStyles": {
+      "--rounded-box": "1rem",
+      "--rounded-badge": "1.9rem",
+      "--animation-input": "0.2s",
+      "--tab-border": "1px",
+      "--tab-radius": "0.5rem"
+    },
+    "mainColors": {
+      "base-100": "#004247",
+      "primary": "#00767F",
+      "secondary": "#9BD8E7",
+      "tertiary": "#CCEAE3",
+      "neutral": "#E2E2E2"
+    },
+    "colorScheme": "any"
+  },
+  "Sunset Glow": {
+    "__resolveType": "site/sections/Theme/Theme.tsx",
+    "buttonStyle": {
+      "--border-btn": "1px",
+      "--rounded-btn": "0.2rem",
+      "--btn-focus-scale": 0.95,
+      "--animation-btn": "0.25s"
+    },
+    "otherStyles": {
+      "--rounded-box": "1rem",
+      "--rounded-badge": "1.9rem",
+      "--animation-input": "0.2s",
+      "--tab-border": "1px",
+      "--tab-radius": "0.5rem"
+    },
+    "mainColors": {
+      "base-100": "#4F3000",
+      "primary": "#FF9900",
+      "secondary": "#FFBC55",
+      "tertiary": "#D49679",
+      "neutral": "#FFE7D4"
+    },
+    "colorScheme": "any"
+  },
+  "Urban Chic": {
+    "__resolveType": "site/sections/Theme/Theme.tsx",
+    "buttonStyle": {
+      "--border-btn": "1px",
+      "--rounded-btn": "0.2rem",
+      "--btn-focus-scale": 0.95,
+      "--animation-btn": "0.25s"
+    },
+    "otherStyles": {
+      "--rounded-box": "1rem",
+      "--rounded-badge": "1.9rem",
+      "--animation-input": "0.2s",
+      "--tab-border": "1px",
+      "--tab-radius": "0.5rem"
+    },
+    "mainColors": {
+      "base-100": "#003232",
+      "primary": "#3141AC",
+      "secondary": "#BADFED",
+      "tertiary": "#DECD8F",
+      "neutral": "#FBF5F1"
+    },
+    "colorScheme": "any"
+  },
+  "decohub": {
+    "__resolveType": "site/apps/decohub.ts"
+  },
+  "pages-Start-15553": {
+    "name": "Home",
+    "path": "/",
+    "sections": [
+      {
+        "__resolveType": "site/sections/ItWorks.tsx"
+      }
+    ],
+    "__resolveType": "website/pages/Page.tsx"
+  },
+  "site": {
+    "seo": {
+      "type": "website",
+      "image": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/8/359559f4-ad55-47be-8dd2-15d11052184c",
+      "jsonLDs": [],
+      "canonical": "https://fashion.deco.site",
+      "noIndexing": false,
+      "description": "Improve your page performance with deco.cx",
+      "titleTemplate": "%s | deco.cx",
+      "descriptionTemplate": "%s | Deco.cx",
+      "title": "Start"
+    },
+    "global": [],
+    "routes": [
+      {
+        "__resolveType": "website/loaders/pages.ts"
+      },
+      {
+        "__resolveType": "website/loaders/redirects.ts"
+      }
+    ],
+    "caching": {
+      "directives": []
+    },
+    "__resolveType": "site/apps/site.ts",
+    "firstByteThresholdMS": true
+  },
+  "Preview ": {
+    "sections": {
+      "RoadmapItems.tsx": {
+        "__resolveType": "site/sections/RoadmapItems.tsx",
+        "roadmapItems": [
+          {
+            "title": "Deploy the roadmap voting system",
+            "description": "It should allow deco users to vote on ideas and propose new ones. It should also allow @deco.cx users to delete unforgiving ones. It should ideally suggest text improvements with GPT before sending!",
+            "upvotes": 420,
+            "downvotes": 42
+          }
+        ]
+      }
+    }
+  }
+}

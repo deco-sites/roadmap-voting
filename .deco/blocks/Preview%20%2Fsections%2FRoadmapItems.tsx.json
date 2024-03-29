@@ -1,0 +1,1 @@
+{"__resolveType":"site/sections/RoadmapItems.tsx","roadmapItems":[{"title":"Deploy the roadmap voting system","description":"It should allow deco users to vote on ideas and propose new ones. It should also allow @deco.cx users to delete unforgiving ones. It should ideally suggest text improvements with GPT before sending!","upvotes":420,"downvotes":42}]}
